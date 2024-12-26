@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qtH/oDUrlA8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stepa\\Documents\\code\\lab9\\lab9_1\\lab9_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stepa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
